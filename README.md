@@ -46,8 +46,8 @@ El proyecto fue desarrollado con un enfoque educativo y conceptual, orientado a 
 - STANDBY: sistema operativo, pero sin carga útil activa.
 - NOMINAL: operación normal del satélite.
 - SAFE: estado seguro ante condiciones anómalas (por ejemplo, batería baja).
-# La transición entre estados se realiza mediante telecomandos o como respuesta a eventos simulados.
-Flujo operacional simulado
+La transición entre estados se realiza mediante telecomandos o como respuesta a eventos simulados.
+## Flujo operacional simulado
 1. Preparación de la pasada
 - Revisión del último estado conocido del satélite.
 - Definición de acciones a ejecutar durante el enlace.
