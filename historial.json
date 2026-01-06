@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": 16,
+    "datetime": "2026-01-05T23:19:23.247732",
+    "estado": "NOMINAL",
+    "bateria": 99.7,
+    "bateria_estado": "NORMAL",
+    "temperatura": 23.2,
+    "payload": false,
+    "datos_pendientes_mb": 350
+  }
+]
