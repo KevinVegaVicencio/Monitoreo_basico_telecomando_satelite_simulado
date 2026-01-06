@@ -82,9 +82,10 @@ Estas limitaciones son coherentes en base al objetivo educativo del proyecto.
 ## Motivación y contexto
 
 Este proyecto fue desarrollado como parte de un proceso de formación y acercamiento al dominio de las operaciones espaciales, con especial interés en las actividades de monitoreo, control y telecomando de satélites, alineadas a funciones propias de centros de control y operación de misiones espaciales.
-Autor
-Kevin Vega Vicencio
- Ingeniero Informático
+## Autor
+
+#### Kevin Vega Vicencio
+#### Ingeniero Informático
 
 # Ejecución básica
 
